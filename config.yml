@@ -1,5 +1,5 @@
 title: Ananya Anamandala
-logo: "C://Users//anany//Downloads//Headshot.png"
+logo: /assets/Headshot.png
 description: Hi! This is Ananya
 show_downloads: true
 theme: jekyll-theme-minimal
